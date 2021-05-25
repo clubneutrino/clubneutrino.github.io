@@ -1072,6 +1072,12 @@ a {
     padding: 0 2rem;
   }
 }
+.cid-syr5gUQepF {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #232323;
+  overflow: hidden;
+}
 .cid-syoJcrnybw {
   z-index: 1000;
   width: 100%;
@@ -1438,4 +1444,10 @@ a {
     margin: auto;
     width: 80%;
   }
+}
+.cid-syr5gUQepF {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #232323;
+  overflow: hidden;
 }

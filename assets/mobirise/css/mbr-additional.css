@@ -1054,3 +1054,21 @@ a {
     left: -1rem;
   }
 }
+.cid-syoNNYGgLs {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffb18a;
+}
+.cid-syoNNYGgLs .row {
+  align-items: center;
+}
+@media (max-width: 991px) {
+  .cid-syoNNYGgLs .image-wrapper {
+    padding: 1rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-syoNNYGgLs .text-wrapper {
+    padding: 0 2rem;
+  }
+}
